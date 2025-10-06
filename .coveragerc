@@ -1,0 +1,9 @@
+[run]
+branch = True
+source = app
+
+[report]
+show_missing = True
+precision = 2
+exclude_lines =
+    pragma: no cover
